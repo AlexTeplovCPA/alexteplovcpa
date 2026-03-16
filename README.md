@@ -1,16 +1,26 @@
-## Hi there 👋
+# Alex Teplov, CPA
 
-<!--
-**AlexTeplovCPA/alexteplovcpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agent workflows for accounting practices.
 
-Here are some ideas to get you started:
+My background is CPA work across two specialized practices: self-employed professionals in Canada (IT contractors, mortgage agents, trades, real estate) and Canadian e-commerce sellers. The workflows I build come from real client work: places where AI handles the repeatable parts reliably, and places where it still needs a CPA to catch what it misses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most AI tools in accounting are built by people who understand LLMs. These are built by someone who also does the month-end.
+
+---
+
+## What I'm Building
+
+**[cpa-skills](https://github.com/alexteplovcpa/cpa-skills)**
+Practice-tested AI workflow skills for CPAs and bookkeepers. Structured instruction files that mirror how accounting work actually flows inside a practice, from document ingestion through to CPA-level review and tax preparation.
+
+**[selfemployed-skills](https://github.com/alexteplovcpa/selfemployed-skills)**
+Tax and bookkeeping workflows for Canadian self-employed professionals. IT contractors, mortgage agents, trades, real estate. Income classification, expense treatment, GST/HST, CRA research.
+
+**[ecommerce-skills](https://github.com/alexteplovcpa/ecommerce-skills)**
+Accounting workflows for Canadian e-commerce sellers. Marketplace reconciliation, inventory and COGS treatment, SKU-level profitability, GST/HST handling, multi-platform reporting.
+
+---
+
+## Where Else to Find Me
+
+[LinkedIn](https://www.linkedin.com/in/alex-teplov/). I post about what I'm building, what works, and what does not.

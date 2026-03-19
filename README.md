@@ -1,4 +1,4 @@
-# Alex Teplov, CPA
+## Alex Teplov, CPA
 
 I build AI agent workflows for accounting practices.
 
@@ -6,21 +6,14 @@ My background is CPA work across two specialized practices: self-employed profes
 
 Most AI tools in accounting are built by people who understand LLMs. These are built by someone who also does the month-end.
 
----
-
 ## What I'm Building
 
-**[cpa-skills](https://github.com/alexteplovcpa/cpa-skills)**
-Practice-tested AI workflow skills for CPAs and bookkeepers. Structured instruction files that mirror how accounting work actually flows inside a practice, from document ingestion through to CPA-level review and tax preparation.
+**cpa-skills** Practice-tested AI workflow skills for CPAs and bookkeepers. Structured instruction files that mirror how accounting work actually flows inside a practice, from document ingestion through to CPA-level review and tax preparation.
 
-**[selfemployed-skills](https://github.com/alexteplovcpa/selfemployed-skills)**
-Tax and bookkeeping workflows for Canadian self-employed professionals. IT contractors, mortgage agents, trades, real estate. Income classification, expense treatment, GST/HST, CRA research.
+**selfemployed-skills** Tax and bookkeeping workflows for Canadian self-employed professionals. IT contractors, mortgage agents, trades, real estate. Income classification, expense treatment, GST/HST, CRA research.
 
-**[ecommerce-skills](https://github.com/alexteplovcpa/ecommerce-skills)**
-Accounting workflows for Canadian e-commerce sellers. Marketplace reconciliation, inventory and COGS treatment, SKU-level profitability, GST/HST handling, multi-platform reporting.
-
----
+**ecommerce-skills** Accounting workflows for Canadian e-commerce sellers. Marketplace reconciliation, inventory and COGS treatment, SKU-level profitability, GST/HST handling, multi-platform reporting.
 
 ## Where Else to Find Me
 
-[LinkedIn](https://www.linkedin.com/in/alex-teplov/). I post about what I'm building, what works, and what does not.
+**LinkedIn.** I post about what I'm building, what works, and what does not. [Connect on LinkedIn](https://www.linkedin.com/in/alex-teplov/).
